@@ -9,7 +9,7 @@ from **abnormal or rare events**, which can later be extended to real-time or ed
 ---
 
 ## 📁 Project Structure
-
+```
 home-audio-anomaly-embedding/
 ├── data/
 │ ├── raw/ # Original audio recordings
@@ -20,7 +20,7 @@ home-audio-anomaly-embedding/
 ├── src/ # Source code for preprocessing and analysis
 └── README.md
 
-
+```
 
 ---
 
